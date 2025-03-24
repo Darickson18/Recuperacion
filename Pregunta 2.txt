@@ -1,0 +1,18 @@
+- Selección simple
+1. En un diagrama de clases UML, ¿qué representa una línea continua con un triángulo
+vacío en un extremo?
+a. Asociación
+b. Herencia.Respuesta correcta
+c. Composición
+d. Dependencia
+2. ¿Cuál de las siguientes afirmaciones sobre los diagramas de clase UML es correcta?
+a. Un atributo público se representa con el símbolo #.
+b. Un atributo privado se representa con el símbolo -. Respuest Correcta
+c. Un atributo protegido se representa con el símbolo +.
+d. Los atributos estáticos no pueden representarse en un diagrama UML.
+3. En UML, ¿qué tipo de relación indica una línea continua con un diamante relleno (negro)
+en un extremo?
+a. Agregación
+b. Composición. Respuesta correcta
+c. Dependencia
+d. Generalización
