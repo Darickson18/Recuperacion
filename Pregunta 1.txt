@@ -1,0 +1,8 @@
+- Verdadero y Falso
+1. En Python, la palabra clave self hace referencia explícita a la clase en sí misma, no a una
+instancia específica de esa clase.Falso
+2. El polimorfismo en Python implica que diferentes clases pueden tener métodos con el mismo
+nombre, y Python decidirá en tiempo de ejecución qué método ejecutar.Verdadero
+3. El método especial __init__ en Python es llamado automáticamente al crear una instancia
+de una clase, inicializando dicho objeto.Verdadero
+4. La función super() en Python se utiliza para eliminar métodos heredados de una subclase.Falso
